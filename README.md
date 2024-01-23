@@ -40,4 +40,13 @@ To participate in Bullet Last, players need to own unique NFT characters. Blende
 
 Bullet Last operates on the Ethereum blockchain. Players can use their **MetaMask wallet** to purchase NFT characters and join the game using cryptocurrency tokens. The entire in-game economy and transactions are secured and powered by blockchain technology.
 
+## Project Development
+
+Bullet Last is the result of a collaborative effort between two teams, each bringing their expertise to the table:
+
+- **CrabsGames**: Responsible for the entire game development process, including NFTs, 3D models, and gameplay implementation.
+
+- **QQ Games**: Played a crucial role in the sponsorship and advertising of Bullet Last, significantly contributing to the realization of this exciting project.
+
+
 Explore the exciting world of Bullet Last, where NFTs and blockchain redefine multiplayer gaming! 🚀🎮

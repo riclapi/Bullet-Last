@@ -40,6 +40,28 @@ To participate in Bullet Last, players need to own unique NFT characters. Blende
 
 Bullet Last operates on the Ethereum blockchain. Players can use their **MetaMask wallet** to purchase NFT characters and join the game using cryptocurrency tokens. The entire in-game economy and transactions are secured and powered by blockchain technology.
 
+## Roadmap
+
+### Trailer
+- **January 18, 2024**
+  - Unveiling the official trailer, providing a sneak peek into the exciting features and gameplay of Bullet Last.
+
+### Alpha Version
+- **January 26, 2024**
+  - Launching the alpha version of the game, allowing early access for testing and feedback.
+
+### Website Launch
+- **March 30, 2024**
+  - Introduction of the official Bullet Last website, providing a central hub for updates, information, and community engagement.
+
+### Beta Version
+- **April 16, 2024**
+  - Releasing the beta version, including crucial milestones and integration of additional in-game features and tokens.
+
+### Final Game Release
+- **April 18, 2024**
+  - Official launch of the complete and polished version of Bullet Last, ready for players to dive into the ultimate gaming experience.
+
 ## Project Development
 
 Bullet Last is the result of a collaborative effort between two teams, each bringing their expertise to the table:

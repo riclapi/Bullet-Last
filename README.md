@@ -1,7 +1,7 @@
 # Bullet Last - Blockchain-Powered Multiplayer Game
 
 Bullet Last is an exhilarating 3D multiplayer game that seamlessly integrates **Non-Fungible Tokens (NFTs)** and cryptocurrency into the gaming experience. Players can purchase unique NFT characters and access the game using their **MetaMask wallet**. With fast-paced gameplay and intense competition, players can enter the game using crypto tokens, and the winner takes home all the tokens collected during the game.
-
+![Characters](/media/characters.png)
 ## Trailer
 
 [**Watch the Bullet Last Trailer**](/media/BULLETLAST_final.mp4)
@@ -27,10 +27,7 @@ In the Unity game environment, Bullet Last communicates with the blockchain to d
 
 Bullet Last utilizes Photon for real-time multiplayer battles. Players can engage in intense battles with each other, with the last surviving player claiming the accumulated pot of tokens.
 
-![Characters](/media/gameplay.png)
-
-## Project Showcase
-![Characters](/media/characters.png)
+![GamePlay](/media/gameplay.png)
 
 
 ## Character NFTs

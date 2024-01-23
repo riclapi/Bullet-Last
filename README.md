@@ -19,12 +19,14 @@ Bullet Last brings together cutting-edge technologies to deliver a unique gaming
 - **Photon**: For multiplayer functionality, Photon is integrated to manage the intense battles within the game, ensuring a smooth and engaging multiplayer experience.
 
 ## Project Showcase
-![Screenshot 1](/media/characters.png)
+![Characters](/media/characters.png)
 
 
 ## Character NFTs
 
 To participate in Bullet Last, players need to own unique NFT characters. Blender was used to create an impressive collection of **10,000 diverse NFT characters**, each with its own distinctive features and attributes.
+
+![NFTS](/media/nfts.png)
 
 ## Blockchain Integration
 

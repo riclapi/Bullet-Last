@@ -19,7 +19,7 @@ Bullet Last brings together cutting-edge technologies to deliver a unique gaming
 - **Photon**: For multiplayer functionality, Photon is integrated to manage the intense battles within the game, ensuring a smooth and engaging multiplayer experience.
 
 ## Project Showcase
-![Screenshot 1](/media/charaters.png)
+![Screenshot 1](/media/characters.png)
 
 
 ## Character NFTs

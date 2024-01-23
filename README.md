@@ -4,7 +4,10 @@ Bullet Last is an exhilarating 3D multiplayer game that seamlessly integrates **
 
 ## Trailer
 
-[**Watch the Bullet Last Trailer**](/path/to/trailer/video.mp4)
+<video width="640" height="360" controls>
+  <source src="/media/BULLETLAST_final.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Project Overview
 

@@ -18,6 +18,17 @@ Bullet Last brings together cutting-edge technologies to deliver a unique gaming
 
 - **Photon**: For multiplayer functionality, Photon is integrated to manage the intense battles within the game, ensuring a smooth and engaging multiplayer experience.
 
+
+## Game in Unity
+
+In the Unity game environment, Bullet Last communicates with the blockchain to determine which NFTs a player owns in their wallet. It then reads the metadata of the NFT and creates a in-game character with the exact characteristics of the NFT, allowing players to immerse themselves in the game with their own unique NFT.
+
+### Real-Time Multiplayer with Photon
+
+Bullet Last utilizes Photon for real-time multiplayer battles. Players can engage in intense battles with each other, with the last surviving player claiming the accumulated pot of tokens.
+
+![Characters](/media/gameplay.png)
+
 ## Project Showcase
 ![Characters](/media/characters.png)
 

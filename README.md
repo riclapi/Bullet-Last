@@ -39,19 +39,19 @@ To participate in Bullet Last, players need to own unique NFT characters. Blende
 Discover the invaluable keys to the Bullet Last universe through our exclusive NFT Marketplace. In the initial web version, a limited collection of 10,000 characters will be meticulously categorized into five distinct tiers, each with its unique set of cosmetics that adds depth and style to your in-game assets.
 
 ### Basic (3,000 NFTs): Soldiers
-**Description:** The foundation of your arsenal, Soldiers are the basic yet essential NFTs that kickstart your journey in Bullet Last.
+The foundation of your arsenal, Soldiers are the basic yet essential NFTs that kickstart your journey in Bullet Last.
 
 ### Exalted (2,500 NFTs): Agents
-**Description:** Elevate your strategy with the Exalted Agents, a tier of elite NFTs that bring a heightened level of power and sophistication to your collection.
+ Elevate your strategy with the Exalted Agents, a tier of elite NFTs that bring a heightened level of power and sophistication to your collection.
 
 ### Mythic (2,000 NFTs): Ninjas
-**Description:** Unleash the mythical prowess of the Ninjas. These rare NFTs embody stealth, agility, and unparalleled combat skills, making them a coveted addition to your Bullet Last squad.
+ Unleash the mythical prowess of the Ninjas. These rare NFTs embody stealth, agility, and unparalleled combat skills, making them a coveted addition to your Bullet Last squad.
 
 ### Divine (1,500 NFTs): Spy Girls
-**Description:** Step into the divine realm with the Spy Girls. These exceptional NFTs combine elegance with lethal precision, adding an element of mystique and power to your collection.
+ Step into the divine realm with the Spy Girls. These exceptional NFTs combine elegance with lethal precision, adding an element of mystique and power to your collection.
 
 ### Cosmic (1,000 NFTs): Robots
-**Description:** Harness the cosmic energy of Robots, the pinnacle of technological advancement. These futuristic NFTs bring unmatched strength and resilience to your squad, establishing them as a force to be reckoned with in Bullet Last.
+ Harness the cosmic energy of Robots, the pinnacle of technological advancement. These futuristic NFTs bring unmatched strength and resilience to your squad, establishing them as a force to be reckoned with in Bullet Last.
 
 ![NFTS](/media/nfts.png)
 

@@ -121,7 +121,7 @@ Bullet Last is the result of a collaborative effort between two teams, each brin
 
 Explore the exciting world of Bullet Last, where NFTs and blockchain redefine multiplayer gaming! 🚀🎮
 
-![NFTS](/media/scena 2-2.png)
+![NFTS](/media/img3.png)
 
 
 

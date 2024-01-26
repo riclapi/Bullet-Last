@@ -36,26 +36,24 @@ Bullet Last utilizes Photon for real-time multiplayer battles. Players can engag
 
 To participate in Bullet Last, players need to own unique NFT characters. Blender was used to create an impressive collection of **10,000 diverse NFT characters**, each with its own distinctive features and attributes.
 
-![NFTS](/media/nfts.png)
-
 Discover the invaluable keys to the Bullet Last universe through our exclusive NFT Marketplace. In the initial web version, a limited collection of 10,000 characters will be meticulously categorized into five distinct tiers, each with its unique set of cosmetics that adds depth and style to your in-game assets.
 
-## Basic (3,000 NFTs): Soldiers
+### Basic (3,000 NFTs): Soldiers
 **Description:** The foundation of your arsenal, Soldiers are the basic yet essential NFTs that kickstart your journey in Bullet Last.
 
-## Exalted (2,500 NFTs): Agents
+### Exalted (2,500 NFTs): Agents
 **Description:** Elevate your strategy with the Exalted Agents, a tier of elite NFTs that bring a heightened level of power and sophistication to your collection.
 
-## Mythic (2,000 NFTs): Ninjas
+### Mythic (2,000 NFTs): Ninjas
 **Description:** Unleash the mythical prowess of the Ninjas. These rare NFTs embody stealth, agility, and unparalleled combat skills, making them a coveted addition to your Bullet Last squad.
 
-## Divine (1,500 NFTs): Spy Girls
+### Divine (1,500 NFTs): Spy Girls
 **Description:** Step into the divine realm with the Spy Girls. These exceptional NFTs combine elegance with lethal precision, adding an element of mystique and power to your collection.
 
-## Cosmic (1,000 NFTs): Robots
+### Cosmic (1,000 NFTs): Robots
 **Description:** Harness the cosmic energy of Robots, the pinnacle of technological advancement. These futuristic NFTs bring unmatched strength and resilience to your squad, establishing them as a force to be reckoned with in Bullet Last.
 
-During the initial phases of the project, these NFTs will be available for m...
+![NFTS](/media/nfts.png)
 
 ## Blockchain Integration
 
@@ -90,6 +88,8 @@ Bullet Last operates on the Ethereum blockchain. Players can use their **MetaMas
 - Stake platforms tradable on both decentralized (DEXs) and centralized exchanges (CEXs), augmenting liquidity and driving demand for the BLT token.
 
 The Bullet Last ecosystem is committed to transparency, traceability, and community engagement. Tokenomics, combined with strategic measures, reinforces sustainability and enduring success.
+
+![NFTS](/media/img2.png)
 
 ## Roadmap
 

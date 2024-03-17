@@ -63,6 +63,8 @@ Bullet Last operates on the Polygon blockchain. Players can use their **Web3 Wal
 
 # Bullet Last Tokenomics
 
+[**0x25b48D1176d720D905B7014B1F32c91596D5f692**](https://polygonscan.com/address/0x25b48D1176d720D905B7014B1F32c91596D5f692)
+
 ## Total Token Supply: 24,500,000
 
 ### A. Investors

@@ -36,7 +36,7 @@ Bullet Last utilizes Photon for real-time multiplayer battles. Players can engag
 
 To participate in Bullet Last, players need to own unique NFT characters. The collection is with the ERC 1155 standard.
 
-[**0xCcc0B0211C4fD1D727688Ddc1CFf964062C63226**]("https://polygonscan.com/address/0xCcc0B0211C4fD1D727688Ddc1CFf964062C63226")
+[**0xCcc0B0211C4fD1D727688Ddc1CFf964062C63226**](https://polygonscan.com/address/0xCcc0B0211C4fD1D727688Ddc1CFf964062C63226)
 
 Discover the invaluable keys to the Bullet Last universe through our exclusive NFT Marketplace. In the initial web version, a limited collection of 10,000 characters will be meticulously categorized into five distinct tiers, each with its unique set of cosmetics that adds depth and style to your in-game assets.
 

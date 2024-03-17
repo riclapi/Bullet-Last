@@ -12,7 +12,7 @@ Bullet Last is an exhilarating 3D multiplayer game that seamlessly integrates **
 - **Unity**: Utilized for the game's development, Unity provides a robust and versatile platform for creating immersive 3D environments.
 
 ### 3D Modeling
-- **Blender**: The game features intricately designed characters and 3D models created using Blender, a powerful open-source 3D content creation suite. Blender was used to generate an impressive array of 10,000 unique NFT characters.
+- **Blender**: The game features intricately designed characters and 3D models created using Blender, a powerful open-source 3D content creation suite. Blender was used to generate the unique NFT characters.
 
 ### Blockchain Integration
 - **JavaScript**: Scripting in JavaScript is employed to establish a connection between Unity and the Ethereum blockchain. These scripts, read by Unity, enable seamless integration with blockchain functionalities.
@@ -34,7 +34,7 @@ Bullet Last utilizes Photon for real-time multiplayer battles. Players can engag
 
 ## Character NFTs
 
-To participate in Bullet Last, players need to own unique NFT characters. Blender was used to create an impressive collection of **10,000 diverse NFT characters**, each with its own distinctive features and attributes.
+To participate in Bullet Last, players need to own unique NFT characters. The collection is with the ERC 1155 standard.
 
 Discover the invaluable keys to the Bullet Last universe through our exclusive NFT Marketplace. In the initial web version, a limited collection of 10,000 characters will be meticulously categorized into five distinct tiers, each with its unique set of cosmetics that adds depth and style to your in-game assets.
 
@@ -57,7 +57,7 @@ The foundation of your arsenal, Soldiers are the basic yet essential NFTs that k
 
 ## Blockchain Integration
 
-Bullet Last operates on the Ethereum blockchain. Players can use their **MetaMask wallet** to purchase NFT characters and join the game using cryptocurrency tokens. The entire in-game economy and transactions are secured and powered by blockchain technology.
+Bullet Last operates on the Polygon blockchain. Players can use their **Web3 Wallet wallet** to purchase NFT characters and join the game using cryptocurrency tokens. The entire in-game economy and transactions are secured and powered by blockchain technology.
 
 # Bullet Last Tokenomics
 

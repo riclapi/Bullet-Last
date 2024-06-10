@@ -96,7 +96,7 @@ Bullet Last operates on the Ethereum blockchain. Players can use their **Web3 Wa
 
 The Bullet Last ecosystem is committed to transparency, traceability, and community engagement. Tokenomics, combined with strategic measures, reinforces sustainability and enduring success.
 
-![NFTS](/media/img2.png)
+![NFTS](/media/bulletLastCharathers.png)
 
 ## Roadmap
 

@@ -36,7 +36,7 @@ Bullet Last utilizes Photon for real-time multiplayer battles. Players can engag
 
 To participate in Bullet Last, players need to own unique NFT characters. The collection is with the ERC 1155 standard.
 
-[**0xCcc0B0211C4fD1D727688Ddc1CFf964062C63226**](https://polygonscan.com/address/0xCcc0B0211C4fD1D727688Ddc1CFf964062C63226)
+[**0xC5CBAF779E077cEa15F41FD9C7Ee8eCC564f42eb**](https://etherscan.io/address/0xc5cbaf779e077cea15f41fd9c7ee8ecc564f42eb)
 
 Discover the invaluable keys to the Bullet Last universe through our exclusive NFT Marketplace. In the initial web version, a limited collection of 10,000 characters will be meticulously categorized into five distinct tiers, each with its unique set of cosmetics that adds depth and style to your in-game assets.
 
@@ -55,15 +55,18 @@ The foundation of your arsenal, Soldiers are the basic yet essential NFTs that k
 ### Cosmic (1,000 NFTs): Robots
  Harness the cosmic energy of Robots, the pinnacle of technological advancement. These futuristic NFTs bring unmatched strength and resilience to your squad, establishing them as a force to be reckoned with in Bullet Last.
 
+ ### Celestial (10 NFTs): Sheriff
+Sherif is a sharp-witted law enforcer, hailing from the heart of England. Donning a traditional yet stylish uniform adorned with intricate details, she exudes authority and elegance. With a keen eye for justice and a steady hand on her trusty revolver, she commands respect on the battlefield.
+
 ![NFTS](/media/characters.png)
 
 ## Blockchain Integration
 
-Bullet Last operates on the Polygon blockchain. Players can use their **Web3 Wallet wallet** to purchase NFT characters and join the game using cryptocurrency tokens. The entire in-game economy and transactions are secured and powered by blockchain technology.
+Bullet Last operates on the Ethereum blockchain. Players can use their **Web3 Wallet** to purchase NFT characters and join the game using cryptocurrency tokens. The entire in-game economy and transactions are secured and powered by blockchain technology.
 
 # Bullet Last Tokenomics
 
-[**0x25b48D1176d720D905B7014B1F32c91596D5f692**](https://polygonscan.com/address/0x25b48D1176d720D905B7014B1F32c91596D5f692)
+[**0x411eB08eD51086C23e7842C25B5006b598dC7D48**](https://etherscan.io/address/0x411eB08eD51086C23e7842C25B5006b598dC7D48)
 
 ## Total Token Supply: 24,500,000
 

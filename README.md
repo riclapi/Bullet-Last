@@ -68,7 +68,7 @@ Bullet Last operates on the Ethereum blockchain. Players can use their **Web3 Wa
 
 [**0x411eB08eD51086C23e7842C25B5006b598dC7D48**](https://etherscan.io/address/0x411eB08eD51086C23e7842C25B5006b598dC7D48)
 
-## Total Token Supply: 24,500,000
+## Total Token Supply: 24,500,000 $LEAD
 
 ### A. Investors
 - **Presale (29%)**: Strategic allocation to investors during the presale phase, fostering early community engagement and support.
@@ -92,7 +92,7 @@ Bullet Last operates on the Ethereum blockchain. Players can use their **Web3 Wa
 
 ## Staking Platforms
 - Introduction of stake platforms in subsequent phases to furnish token holders with supplementary avenues to earn rewards.
-- Stake platforms tradable on both decentralized (DEXs) and centralized exchanges (CEXs), augmenting liquidity and driving demand for the BLT token.
+- Stake platforms tradable on both decentralized (DEXs) and centralized exchanges (CEXs), augmenting liquidity and driving demand for the LEAD token.
 
 The Bullet Last ecosystem is committed to transparency, traceability, and community engagement. Tokenomics, combined with strategic measures, reinforces sustainability and enduring success.
 

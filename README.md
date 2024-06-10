@@ -58,7 +58,7 @@ The foundation of your arsenal, Soldiers are the basic yet essential NFTs that k
  ### Celestial (10 NFTs): Sheriff
 Sherif is a sharp-witted law enforcer, hailing from the heart of England. Donning a traditional yet stylish uniform adorned with intricate details, she exudes authority and elegance. With a keen eye for justice and a steady hand on her trusty revolver, she commands respect on the battlefield.
 
-![NFTS](/media/characters.png)
+![NFTS](/media/bulletLastCharathers.png)
 
 ## Blockchain Integration
 
@@ -96,7 +96,7 @@ Bullet Last operates on the Ethereum blockchain. Players can use their **Web3 Wa
 
 The Bullet Last ecosystem is committed to transparency, traceability, and community engagement. Tokenomics, combined with strategic measures, reinforces sustainability and enduring success.
 
-![NFTS](/media/bulletLastCharathers.png)
+![NFTS](/media/img2.png)
 
 ## Roadmap
 
